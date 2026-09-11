@@ -80,7 +80,7 @@ nav {
     display: flex;
     list-style: none;
     gap: 30px;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .nav-links a {
